@@ -11,3 +11,5 @@ Here we'll house
 - toml
 - yaml
 - edn
+- xml
+- REST apis
